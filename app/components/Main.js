@@ -71,7 +71,7 @@ var Main = React.createClass(
                   <div className="container">
                      <nav className="navbar navbar-default" role="navigation">
                         <div className="container-fluid">
-                           <div className="navbar-header"><button type="button" className="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse"><span className="sr-only">Toggle navigation</span><span className="icon-bar"></span><span className="icon-bar"></span><span className="icon-bar"></span></button><a className="navbar-brand" href="/">Echo</a></div>
+                           <div className="navbar-header"><button type="button" className="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse"><span className="sr-only">Toggle navigation</span><span className="icon-bar"></span><span className="icon-bar"></span><span className="icon-bar"></span></button><a className="navbar-brand" href="/">Scrape</a></div>
                            <div className="collapse navbar-collapse navbar-ex1-collapse">
                               <ul className="nav navbar-nav navbar-right">
                                  <li><a href="/search">Search</a></li>
@@ -81,8 +81,8 @@ var Main = React.createClass(
                         </div>
                      </nav>
                      <div className="jumbotron">
-                        <h2 className="text-center"><strong>Echo Scraper</strong></h2>
-                        <h3 className="text-center">Search for and save articles of interest.</h3>
+                        <h2 className="text-center"><strong>You'll Scrape Too</strong></h2>
+                        <h3 className="text-center">Search for and save articles</h3>
                      </div>
                      <div className="main-container">
                         <div className="main-container">
